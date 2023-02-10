@@ -4,8 +4,8 @@ source_image = None
 # You can fill these in to avoid putting them as args all the time
 imgen_params = {
     "n": 1,
-    "width": 64*8,
-    "height":64*8,
+    "width": 64*16,
+    "height":64*16,
     "steps": 25,
     "denoising_strength": 0.7,
     "sampler_name": "k_euler",
