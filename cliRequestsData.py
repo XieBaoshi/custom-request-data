@@ -6,7 +6,7 @@ imgen_params = {
     "n": 1,
     "width": 64*16,
     "height":64*16,
-    "steps": 25,
+    "steps": 20,
     "denoising_strength": 0.7,
     "sampler_name": "k_euler",
     "cfg_scale": 12,
