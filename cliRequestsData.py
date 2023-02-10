@@ -18,7 +18,7 @@ imgen_params = {
 }
 submit_dict = {
     # "prompt": "a swarm of incredibly cute stable robots, intricate, highly detailed, artstation, concept art, smooth, sharp focus, colorful scene,  in the style of don bluth, greg rutkowski, disney, and hans zatzka",
-    "prompt": "solo, pose, bikini, cute, smile, bangs, sidelocks, blush, seductive. at pixiv and artstation hq, vibrant, detailed, intricate details",
+    "prompt": "masterpiece. a heroine in uniform with pleated skirt and necktie. pose, contrapposto, floating hair, perfectly shaped shapes, perfect body, cute, ArtStationHQ, pixiv, kodak portra fuji superia",
     "nsfw": True,
     "censor_nsfw": False,
     "trusted_workers": False,
